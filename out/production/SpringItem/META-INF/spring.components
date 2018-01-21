@@ -1,0 +1,4 @@
+#
+#Sat Jan 20 22:15:05 CST 2018
+com.Soundsystem.SgtPeppers=org.springframework.stereotype.Component
+com.Soundsystem.CDPlayerConfig=org.springframework.stereotype.Component
